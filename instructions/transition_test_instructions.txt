@@ -1,0 +1,7 @@
+Now we are going to see whether you have learned which entrance leads to which type of rock.
+
+First you will see one of the two kinds of rocks. You will then need to choose which of two entrances will take you to that rock.
+
+If you get most of the answers correct, you will move on to the task.
+
+If not, you will repeat the training another time.

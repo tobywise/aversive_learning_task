@@ -1,0 +1,3 @@
+Now we're going to start the real task!
+
+This will work in the same way as the practice, but it might be a bit harder to work out which type of rock is the safest.

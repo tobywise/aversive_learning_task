@@ -1,0 +1,9 @@
+Now you're going to have a chance to practice the task.
+
+On each trial, you will get to choose one of the mine entrances. You will then see the type of rock this took you to.
+
+When you've seen the type of rock, you will find out whether there was a snake hiding in the rocks or not. If there was a snake, you will receive a shock.
+
+For the rocks that don't have snakes hiding in them, you will just find a puddle of water.
+
+One of the types of rock will be more likely to have a snake hiding under it. You should try to choose the mine entrances that will lead you to the safest rock type.

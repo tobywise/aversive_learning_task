@@ -1,0 +1,77 @@
+# Various general settings
+task_settings:
+  outcome_info_file: 'trial_info.csv'
+  practice_outcome_info_file: 'trial_info_practice.csv'
+
+  trials_per_block: 25
+
+  transition_training_threshold: 0.9
+
+  # Parallel port
+  parallel_port_number: 888
+
+  # Window settings
+  fullscreen: True
+
+  # Training
+  n_training_trials: 3  # Number of transition training trials
+  n_test_trials: 3  # Number of transition test trials
+
+# Timings for various aspects of the task
+durations:
+  first_stage_time: 2
+  second_stage_time: 2
+  outcome_time: 2
+  transition_training_probe_time: 3
+  transition_training_options_time: 4
+  transition_training_success_time: 2
+
+# Settings related to visual stimuli
+stimuli:
+  stimulus_1_image: 'images/mine1.png'
+  stimulus_2_image: 'images/mine2.png'
+  stimulus_3_image: 'images/mine3.png'
+  stimulus_4_image: 'images/mine4.png'
+  stimulus_5_image: 'images/rocks1.png'
+  stimulus_6_image: 'images/rocks2.png'
+
+  shock_image: 'images/snake.png'
+  safe_image: 'images/puddle.png'
+
+  left_stim_xpos: -20
+  right_stim_xpos: 20
+
+  image_size: 25
+
+  text_size: 2  # Size of instruction text
+  text_colour: '#1a1a1a'
+
+# Settings for stimulation
+stimulation:
+
+  n_shocks: 1
+
+
+# Text files used for instructions
+instructions:
+  start_instructions: 'instructions/start_instructions.txt'  # Instructions show at the start of the task
+  practice_instructions: 'instructions/practice_instructions.txt'  # Instructions shown before practice
+  task_instructions: 'instructions/task_instructions.txt'  # Instructions shown before task begins
+  break_instructions: 'instructions/break_instructions.txt'  # Instructions shown in between sessions
+  end_instructions: 'instructions/end_instructions.txt'  # Text shown at the end of the task
+  transition_training_instructions: 'instructions/transition_training_instructions.txt'
+  transition_test_instructions: 'instructions/transition_test_instructions.txt'
+
+# Relevant directories
+directories:
+  saved_data: 'data'  # Where to save data to
+
+# Response keys
+response_keys:
+  left_key: 'a' # Key to press for decision
+  right_key: 'l'
+
+# Nice fonts because I hate arial
+fonts:
+  font_path: 'fonts/OpenSans-Regular.ttf'
+  font_name: 'Open Sans'

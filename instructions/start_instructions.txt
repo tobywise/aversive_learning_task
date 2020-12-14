@@ -1,0 +1,7 @@
+In this task you will play the role of an explorer looking for previous rocks that have been discovered in some old mines.
+
+Your job is to enter the mines through different entrances and recover the precious rocks.
+
+However, some of the rocks have snakes hiding amongst them. You need to recover the rocks while avoiding the snakes.
+
+Press SPACE to continue
